@@ -10,7 +10,7 @@
 			"name": "Test 1 - Get page",
 			"event": [
 				{
-					"listen": "test",
+					"listen": "test merge a branch",
 					"script": {
 						"exec": [
 							"pm.test(\"Response time is less than 200ms\", function () {\r",
